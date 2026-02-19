@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="assets/git-gif-banner.gif" width="600"/>
+  <img src="assets/git-gif-banner-ezgif.com-resize.gif" width="600"/>
 </p>
 <h1 align="center">Faizaan Khan</h1>
 <p align="center">
