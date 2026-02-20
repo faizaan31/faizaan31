@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/git-gif-banner-ezgif.com-resize.gif" width="1280"/>
+  <img src="assets/git-gif-banner.gif" width="1280"/>
 </p>
 <h1 align="center">Faizaan Khan</h1>
 <p align="center">
