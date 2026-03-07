@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/git-gif-banner.gif" width="100%" />
+  <img src="assets/git-gif-banner.gif" width="100%" style="max-height:260px; object-fit:cover;">
 </p>
 
 <h1 align="center">Faizaan Khan</h1>
@@ -20,6 +20,8 @@ Software Engineer • ML Systems • Distributed Infrastructure • Quant-curiou
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+---
 
 ---
 
