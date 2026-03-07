@@ -1,15 +1,6 @@
 <p align="center">
   <img src="assets/git-gif-banner.gif" width="1280"/>
 </p>
-<h1 align="center">Faizaan Khan</h1>
-<p align="center">
-  MS Computer Science @ NYU • Software Engineer  
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/khan-faizaan">LinkedIn</a> •
-  <a href="mailto:faizaan31.khan@gmail.com">Email</a>
-</p>
 
 ---
 ## Hi, I'm Faizaan Khan
