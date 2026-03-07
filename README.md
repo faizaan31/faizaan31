@@ -5,13 +5,10 @@
 ---
 
 <div align="center">
-
-# Hi, I'm Faizaan !
-
-**MSCS @ NYU** · SWE · ML Engineer · Quant-curious
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan-faizaan) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizaan31.khan@gmail.com)
-
+  <h1>Hi, I'm Faizaan !</h1>
+  <p><strong>MSCS @ NYU</strong> · SWE · ML Engineer · Quant-curious</p>
+  <a href="https://www.linkedin.com/in/khan-faizaan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:faizaan31.khan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 ---
 
