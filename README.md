@@ -13,6 +13,58 @@
 
 ---
 
+## Hi, I'm Faizaan Khan
+
+**MS CS @ NYU (2025)** · SWE & ML Engineer · Quant-curious
+
+---
+
+### What I'm optimizing for
+
+I'm a **graduate student in Computer Science at NYU (Courant)**, focused on the overlap of:
+
+- **Production software engineering** — backend services, distributed systems, and APIs that are reliable and observable  
+- **Applied machine learning** — end-to-end pipelines, from data to training to real-time inference and monitoring  
+- **Quantitative thinking** — using probability, statistics, and experimentation to make decisions under uncertainty  
+
+I’m especially drawn to **SWE and ML roles** where rigorous engineering and math meet real-world impact — and I’m also excited about quantitative work.
+
+---
+
+### How I work
+
+- Start from **requirements and constraints** (scale, latency, failure modes), then design data models, services, and APIs around them  
+- Prefer **measurable performance**: latency distributions, throughput, error rates, and model metrics over “it feels fast enough”  
+- Treat ML systems as products: versioned, reproducible, monitored, and explainable where it matters  
+
+I’ve built document understanding systems over millions of enterprise documents, risk-style models in healthcare settings, and distributed backend services handling high-volume data flows.
+
+---
+
+### Tools I reach for
+
+- **Languages:** Python, Java, C++, Go, SQL  
+- **Backend & systems:** REST APIs, microservices, Kafka, Redis, Docker, Kubernetes, PostgreSQL, Spark, AWS/GCP  
+- **ML & data:** PyTorch, TensorFlow, XGBoost, Scikit-learn, Transformers, FAISS, SHAP, feature engineering, evaluation design  
+
+I’m comfortable moving between quick Python experiments, production services in Go/Java/Python, and the infrastructure that runs them.
+
+---
+
+### Outside of code
+
+NYU Flag Football, soccer (state & district level), competitive coding, swimming, music, and reading about space–time.
+
+---
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan-faizaan)  
+**Open to:** Software Engineering · ML Engineer · Quant Analyst roles
+
+*Last updated: March 2026*
+
+
 
 ## Hi, I'm Faizaan Khan
 
