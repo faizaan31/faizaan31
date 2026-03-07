@@ -2,253 +2,161 @@
   <img src="assets/git-gif-banner.gif" width="1280"/>
 </p>
 
----
-
-<div align="center">
-  <h1>Hi, I'm Faizaan !</h1>
-  <p><strong>MSCS @ NYU</strong> · SWE · AI/ML Engineer · Quant-curious &nbsp; <a href="https://www.linkedin.com/in/khan-faizaan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:faizaan31.khan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a></p>
-</div>
----
-
-### What I'm optimizing for
-
-I'm a **graduate student in Computer Science at NYU**, building at the intersection of:
-
-- **Production software engineering** — backend services, distributed systems, and APIs that are reliable, observable, and built for scale  
-- **Applied machine learning & AI** — end-to-end pipelines from data to training to real-time inference, and building with modern AI in mind  
-- **Quantitative rigor** — probability, statistics, and measurable performance; I like problems where reasoning about uncertainty and edge cases matters  
-
-I'm actively looking for **Software Engineering** and **ML Engineer** roles, and I'm also excited about **Quant Research / Quant Analyst** opportunities where strong systems and math both count.
-
----
-
-### How I work
-
-- Start from **requirements and constraints** (scale, latency, failure modes), then design data models, services, and APIs around them  
-- Care about **measurable performance**: latency distributions, throughput, error bounds, and model metrics — not "it feels fast enough"  
-- Treat systems and models as things to **stress-test**: reproducible experiments, regime shifts, and failure scenarios  
-
-I've built document understanding over millions of enterprise docs, risk and prediction models where calibration and interpretability matter, distributed backend services for high-volume data, and low-latency matching logic — so I'm at home in both product-facing ML and systems-heavy, quant-style work.
-
----
-
-### Tools I reach for
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
-</p>
-
-- **Languages:** Python, Java, C++, Go, SQL  
-- **Backend & systems:** REST APIs, microservices, Kafka, Redis, Docker, Kubernetes, PostgreSQL, Spark, AWS/GCP  
-- **ML & data:** PyTorch, TensorFlow, XGBoost, Scikit-learn, Transformers, FAISS, SHAP, feature engineering, evaluation design  
-- **Math & stats:** advanced calculus, probability & queuing theory, statistics — coursework and practice that I use when the problem demands it  
-
-I'm comfortable moving between quick Python exploration, low-level C++ when performance matters, and production services in Go/Java.
-
----
-
-### Outside the terminal
-
-When I'm not at the keyboard: **soccer** (state & district level, captained my team to 1st in the govt. district tournament, and still play), **NYU Flag Football**, **badminton**, **competitive coding**, swimming, and music. I like environments where feedback loops are fast, stakes are real, and teams care about both performance and integrity.
-
-💬 **Let's connect** — I'm happy to chat about systems, ML, AI, or quant.  
-👾 **Fun fact:** I read about the space–time continuum for fun.  
-⚽ **Also:** I've played soccer at NYU and rep badminton when I get the chance.
-
----
-
-### While you're here
+<h1 align="center">Faizaan Khan</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faizaan31/faizaan31/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
+Software Engineer • ML Systems • Distributed Infrastructure • Quant-curious
 </p>
 
-*Like games? I built a **[typing-speed test](https://faizaan31.github.io/typing-speed)** and a **[mini game](https://faizaan31.github.io/profile-game)** — try them and see how you do.*
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Machine+Learning+Systems;Distributed+Systems;Quantitative+Problem+Solving&center=true&width=500&height=40">
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/khan-faizaan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:faizaan31.khan@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### Reach out
+## 🔭 Currently Exploring
 
-**Open to:** Software Engineering · ML Engineer · Quant Research / Quant Analyst  
+I'm a **software engineer and machine learning engineer** finishing my **MS in Computer Science at NYU**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan-faizaan) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizaan31.khan@gmail.com)
-# Hi, I'm Faizaan 👋
+I enjoy building systems where **data, models, and infrastructure intersect** — the kind of problems where software design, statistical reasoning, and real-world performance all influence each other.
 
-Software Engineer focused on building reliable systems, scalable backend services, and data-driven applications.  
-Interested in machine learning and quantitative problem solving where they meet practical engineering.
+Lately I've been especially drawn to work around:
 
----
+• large-scale backend services that move and process data reliably  
+• machine learning systems that go from raw data to real-time decisions  
+• retrieval and intelligence systems that surface the right information quickly  
+• performance-aware engineering where latency, throughput, and robustness matter
 
-## 🧭 Engineering Focus
-
-- Backend systems & API design
-- Scalable data pipelines
-- Performance-aware software development
-- Applied machine learning (production-oriented)
-- Analytical & quantitative problem solving
+In general, I'm fascinated by problems where **engineering meets quantitative thinking** — where probability, statistics, and careful measurement shape how systems are designed and evaluated.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 How I Think About Engineering
 
-**Languages**  
-Python • Java • C++ • SQL
+I tend to approach systems from a **measurement-first perspective**.
 
-**Backend & Infrastructure**  
-FastAPI • Spring Boot • REST APIs • Kafka • Redis • Docker • Kubernetes
+Before writing code, I usually think about:
 
-**Data & ML (Applied Interest)**  
-PyTorch • XGBoost • Transformers • FAISS • Spark
+• latency distributions and throughput limits  
+• model calibration and prediction behavior  
+• system observability and failure modes  
+• how data distributions shift over time  
 
-**Databases & Cloud**  
-PostgreSQL • MySQL • MongoDB • AWS
-
----
-
-## 🚀 Selected Work
-
-### 🔹 Enterprise Document Intelligence Platform
-Designed a scalable semantic search and summarization system supporting low-latency retrieval across large datasets.
-
-### 🔹 Recommendation & Ranking System
-Built a two-stage recommendation pipeline combining embeddings with ranking models to improve relevance and retrieval speed.
-
-### 🔹 Clinical Risk Prediction Engine
-Developed an explainable ML scoring system with production API deployment and real-time prediction workflows.
+This mindset comes from working across **production systems, data pipelines, and machine learning workflows**, where correctness and robustness matter just as much as raw performance.
 
 ---
 
-## ⚡ A Little About Me
+## ⚙️ Tools I Reach For
 
-- I enjoy turning complex problems into simple, maintainable systems.
-- Strong believer in clean architecture and measurable performance.
-- Interested in how data, systems, and algorithms interact at scale.
-- Outside engineering: soccer, swimming, and competitive problem solving.
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### Backend & Distributed Systems
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</p>
+
+### Machine Learning & Data
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn"/>
+</p>
+
+### Data Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud"/>
+</p>
+
+---
+
+## 🧪 Types of Work You'll See Here
+
+Across my repositories you'll find work around:
+
+• **LLM-powered retrieval and document understanding systems**  
+• **predictive modeling pipelines with explainability tooling**  
+• **distributed data pipelines and event-driven backend services**  
+• **low-latency APIs and performance-sensitive infrastructure**
+
+I enjoy problems where **systems design, machine learning, and quantitative thinking intersect**.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizaan31&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaan31&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faizaan31/faizaan31/output/github-contribution-grid-snake.svg" width="100%">
+</p>
+
+---
+
+## 🌍 Outside Engineering
+
+When I'm not building systems, you'll usually find me doing something active or exploring ideas outside tech.
+
+⚽ **Soccer** has been a big part of my life — I played at the state and district level and once captained my team to a district championship.
+
+🏸 I also enjoy **badminton, swimming, and NYU flag football**, especially when it's a chance to compete and unwind away from the keyboard.
+
+🧠 I'm naturally curious about **how complex systems behave** — whether that's markets, probability, or even the physics of space-time (yes, I occasionally go down those rabbit holes for fun).
+
+I like problems where **strategy, teamwork, and careful thinking matter** — whether that's on the field or inside a system design.
 
 ---
 
 ## 🤝 Connect
 
-LinkedIn → https://linkedin.com/in/khan-faizaan  
-Email → khan.faizaan@nyu.edu
----
+<p>
+<a href="https://www.linkedin.com/in/khan-faizaan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizaan31&show_icons=true&hide_title=true&hide_border=true" />
+<a href="mailto:faizaan31.khan@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
-
-<!--
-**faizaan31/faizaan31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Faizaan Khan</h1>
-
-<p align="center">
-  MS Computer Science @ NYU • Software Engineer  
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/khan-faizaan">LinkedIn</a> •
-  <a href="mailto:faizaan31.khan@gmail.com">Email</a>
-</p>
-
----
-
-## About Me
-
-I design backend systems, distributed data pipelines, and production-oriented ML infrastructure.
-
-My work focuses on scalability, performance, reliability, and clean system design.
-
----
-
-## Technical Interests
-
-- Distributed Systems
-- Backend Architecture
-- Concurrency & Multithreading
-- Performance Optimization
-- Data-Intensive Applications
-- ML Infrastructure
-
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-### Systems & Infrastructure
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-### Machine Learning & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6F00?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-00457C?style=flat)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-
----
-
-## Selected Projects
-
-**High-Performance Matching Engine (C++)**  
-Multithreaded order book implementing price-time priority with optimized memory management and microsecond-level execution latency.
-
-**Distributed Task Execution Framework**  
-Fault-tolerant distributed system with leader election, task sharding, and retry semantics.
-
-**Kafka-Based Streaming Pipeline**  
-Partitioned consumer architecture with throughput benchmarking and latency monitoring.
-
-**LLM-Based Retrieval & Search System**  
-Vector-based semantic search with FAISS, FastAPI, and scalable API deployment.
-
----
-
-## Currently Exploring
-
-- Lock-free data structures
-- Low-latency system design
-- Advanced concurrency patterns
-- Performance profiling & benchmarking
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizaan31&show_icons=true&hide_title=true&hide_border=true" />
-</p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
