@@ -21,6 +21,13 @@ Software Engineer • ML Systems • Distributed Infrastructure • Quant-curiou
 </a>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Probability-1f6feb?style=flat-square">
+<img src="https://img.shields.io/badge/Stochastic_Processes-238636?style=flat-square">
+<img src="https://img.shields.io/badge/Machine_Learning-6f42c1?style=flat-square">
+<img src="https://img.shields.io/badge/Data_Systems-bd561d?style=flat-square">
+</p>
+
 ---
 
 ---
