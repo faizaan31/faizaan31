@@ -7,6 +7,7 @@
 ## Hi, I'm Faizaan !
 **MSCS @ NYU** · SWE · ML Engineer · Quant-curious
 </p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan-faizaan) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizaan31.khan@gmail.com)
 
 ---
