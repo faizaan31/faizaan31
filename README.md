@@ -3,17 +3,17 @@
 </p>
 
 ---
-## Hi, I'm Faizaan Khan
-
-**MS CS @ NYU (2025)** · SWE · ML Engineer · Quant-curious
-
+<p align="center">
+## Hi, I'm Faizaan !
+**MSCS @ NYU** · SWE · ML Engineer · Quant-curious
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khan-faizaan) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizaan31.khan@gmail.com)
 
 ---
 
 ### What I'm optimizing for
 
-I'm a **graduate student in Computer Science at NYU (Courant)**, building at the intersection of:
+I'm a **graduate student in Computer Science at NYU**, building at the intersection of:
 
 - **Production software engineering** — backend services, distributed systems, and APIs that are reliable, observable, and built for scale  
 - **Applied machine learning & AI** — end-to-end pipelines from data to training to real-time inference, and building with modern AI in mind  
