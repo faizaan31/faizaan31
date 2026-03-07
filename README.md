@@ -13,6 +13,28 @@ Software Engineer • ML Systems • Distributed Infrastructure • Quant-curiou
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Machine+Learning+Systems;Distributed+Systems;Quantitative+Problem+Solving&center=true&width=500&height=40">
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/khan-faizaan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:faizaan31.khan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Option 1: Ticker tape — scrolling text e.g. SWE · ML · QUANT · NYU · PYTHON · KAFKA · PYTORCH. Add your GIF as assets/ticker-banner.gif -->
+<p align="center">
+  <img src="assets/ticker-banner.gif" width="100%" height="200" style="object-fit: cover; object-position: center;" alt="Ticker tape banner"/>
+</p>
+
+<!-- Option 2: Portfolio dashboard — e.g. LONG: Systems · ML · Quant curiosity. Add your GIF as assets/portfolio-banner.gif -->
+<p align="center">
+  <img src="assets/portfolio-banner.gif" width="100%" height="200" style="object-fit: cover; object-position: center;" alt="Portfolio style banner"/>
+</p>
+
+
+<p align="center">
 <a href="https://www.linkedin.com/in/khan-faizaan">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
