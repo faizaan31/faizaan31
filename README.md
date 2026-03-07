@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/git-gif-banner.gif" width="100%" style="max-height:260px; object-fit:cover;">
+  <img src="assets/git-gif-banner.gif" width="100%" style="max-height:200px; object-fit:cover;">
 </p>
 
 <h1 align="center">Faizaan Khan</h1>
