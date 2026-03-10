@@ -11,70 +11,32 @@
 <a href="mailto:faizaan31.khan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-<!-- Option 1: Ticker tape — scrolling text e.g. SWE · ML · QUANT · NYU · PYTHON · KAFKA · PYTORCH. Add your GIF as assets/ticker-banner.gif -->
-<p align="center">
-  <img src="assets/ticker-banner.gif" width="100%" height="200" style="object-fit: cover; object-position: center;" alt="Ticker tape banner"/>
-</p>
-
-<!-- Option 2: Portfolio dashboard — e.g. LONG: Systems · ML · Quant curiosity. Add your GIF as assets/portfolio-banner.gif -->
-<p align="center">
-  <img src="assets/portfolio-banner.gif" width="100%" height="200" style="object-fit: cover; object-position: center;" alt="Portfolio style banner"/>
-</p>
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/khan-faizaan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:faizaan31.khan@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Probability-1f6feb?style=flat-square">
-<img src="https://img.shields.io/badge/Stochastic_Processes-238636?style=flat-square">
-<img src="https://img.shields.io/badge/Machine_Learning-6f42c1?style=flat-square">
-<img src="https://img.shields.io/badge/Data_Systems-bd561d?style=flat-square">
-</p>
-
----
-
----
-
----
-
+<!--
+-->
 ## 🔭 Currently Exploring
 
-I'm a **software engineer and machine learning engineer** finishing my **MS in Computer Science at NYU**.
+I'm a **Computer Science grad student at New York University(NYU)**, building at the intersection of:
 
-I enjoy building systems where **data, models, and infrastructure intersect** — the kind of problems where software design, statistical reasoning, and real-world performance all influence each other.
+• **Production software engineering** — backend services, distributed systems, and APIs that are reliable, observable, and built for scale  
+• **Applied machine learning & AI** — end-to-end pipelines from data to training to real-time inference, and building with modern AI in mind  
+• **Quantitative rigor** — probability, statistics, and measurable performance; I like problems where reasoning about uncertainty and edge cases matters  
 
-Lately I've been especially drawn to work around:
+Lately I've been especially drawn to large-scale backend services that move and process data reliably, ML systems that go from raw data to real-time decisions, retrieval and intelligence systems that surface the right information quickly, and performance-aware engineering where latency, throughput, and robustness matter.
 
-• large-scale backend services that move and process data reliably  
-• machine learning systems that go from raw data to real-time decisions  
-• retrieval and intelligence systems that surface the right information quickly  
-• performance-aware engineering where latency, throughput, and robustness matter
-
-In general, I'm fascinated by problems where **engineering meets quantitative thinking** — where probability, statistics, and careful measurement shape how systems are designed and evaluated.
+I'm looking for **Software Engineering** and **ML Engineer** roles, and I'm also excited about **Quant Research / Quant Analyst** opportunities where strong systems and math both count.
 
 ---
 
 ## 🧠 How I Think About Engineering
 
-I tend to approach systems from a **measurement-first perspective**.
-
-Before writing code, I usually think about:
+I tend to approach systems from a **measurement-first perspective**. Before writing code, I usually think about:
 
 • latency distributions and throughput limits  
 • model calibration and prediction behavior  
 • system observability and failure modes  
 • how data distributions shift over time  
 
-This mindset comes from working across **production systems, data pipelines, and machine learning workflows**, where correctness and robustness matter just as much as raw performance.
+This mindset comes from working across **production systems, data pipelines, and machine learning workflows** — where correctness and robustness matter just as much as raw performance. I've built document understanding over millions of enterprise docs, risk and prediction models where calibration and interpretability matter, distributed backend services for high-volume data, and low-latency matching logic.
 
 ---
 
@@ -123,6 +85,8 @@ This mindset comes from working across **production systems, data pipelines, and
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud"/>
 </p>
 
+*Math & stats:* advanced calculus, probability & queuing theory, statistics — coursework I lean on when the problem demands it.
+
 ---
 
 ## 🧪 Types of Work You'll See Here
@@ -141,45 +105,41 @@ I enjoy problems where **systems design, machine learning, and quantitative thin
 ## 📊 GitHub Activity
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=faizaan31&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaan31&layout=compact&theme=tokyonight"/>
-
 </p>
-
----
-
+<!--
 ## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/faizaan31/faizaan31/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
----
-
+*Like games? I built a [typing-speed test](https://faizaan31.github.io/typing-speed) and a [mini game](https://faizaan31.github.io/profile-game) — try them and see how you do.*
+-->
 ## 🌍 Outside Engineering
 
 When I'm not building systems, you'll usually find me doing something active or exploring ideas outside tech.
 
+🏈 **Flag Football** — I play on the NYU Flag Football team(#GO Violets) and love the chance to compete and unwind away from the keyboard.
+
 ⚽ **Soccer** has been a big part of my life — I played at the state and district level and once captained my team to a district championship.
 
-🏸 I also enjoy **badminton, swimming, and NYU flag football**, especially when it's a chance to compete and unwind away from the keyboard.
+🏸 I also enjoy **badminton** and **swimming**, especially when it's a chance to compete and unwind.
 
-🧠 I'm naturally curious about **how complex systems behave** — whether that's markets, probability, or even the physics of space-time (yes, I occasionally go down those rabbit holes for fun).
+💬 I like problems where **strategy, teamwork, and careful thinking matter** — whether that's on the field or when working through challenging ideas.
 
-I like problems where **strategy, teamwork, and careful thinking matter** — whether that's on the field or inside a system design.
+👾 Fun fact: I read about the **Space–Time Continuum** for fun — one of those rabbit holes I keep going back to.
 
 ---
 
 ## 🤝 Connect
 
-<p>
-<a href="https://www.linkedin.com/in/khan-faizaan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+**Open to:** Software Engineering · ML Engineer · Quant Research / Quant Analyst
 
-<a href="mailto:faizaan31.khan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+<p>
+<a href="https://www.linkedin.com/in/khan-faizaan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:faizaan31.khan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+*Last updated: March 2026*
