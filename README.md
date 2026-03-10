@@ -9,6 +9,13 @@ Software Engineer • ML Systems • Distributed Infrastructure • Quant-curiou
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML_Systems-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Distributed_Infrastructure-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quant_Curious-bd561d?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+ML+Systems+%7C+Distributed+Infrastructure;Software+Engineer+%7C+Quantitative+Thinking;Software+Engineer+%7C+AI+%2F+ML+Engineering" alt="Typing SVG" />
 </p>
 
