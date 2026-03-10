@@ -27,7 +27,7 @@ I'm especially drawn to opportunities in **Software Engineering**, **AI/ML Engin
 # 🧠 How I Think Around
 I tend to approach systems from a **measurement-first perspective**. Before writing code, I usually think about:
 
-• Latency distributions and throughput limits  • Model calibration and prediction behavior  • System observability and failure modes and how data distributions shift over time  
+• Latency distributions and throughput limits  • Model calibration and prediction behavior  • System observability and failure modes, and how data distributions shift over time  
 
 This mindset comes from working across **production systems, data pipelines, and machine learning workflows**.
 # ⚙️ Tools I Reach For
