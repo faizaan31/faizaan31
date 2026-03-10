@@ -22,7 +22,7 @@ I'm a **Computer Science** grad student at **New York University (NYU)**, buildi
 
 Recently I've been particularly interested in large-scale backend services, ML systems that turn raw data into real-time decisions, retrieval and intelligence systems, and performance-aware engineering where latency and robustness matter.
 
-I'm especially drawn to opportunities in **Software Engineering**, **AI/ML Engineering**, and really excited about **sQuant Analyst** roles.
+I'm especially drawn to opportunities in **Software Engineering**, **AI/ML Engineering**, and really excited about **Quant Analyst** roles.
 
 # 🧠 How I Think Around
 I tend to approach systems from a **measurement-first perspective**. Before writing code, I usually think about:
