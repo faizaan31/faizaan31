@@ -13,11 +13,8 @@
   <a href="mailto:faizaan31.khan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-## 🔭 Currently Exploring
-
-I'm a **Computer Science grad student at New York University (NYU)**, building at the intersection of:
+# 🔭 Currently Exploring
+I'm a **Computer Science** grad student at **New York University (NYU)**, building at the intersection of:
 
 • **Production software engineering** — backend services, distributed systems, and APIs that are reliable, observable, and built for scale  
 • **Applied machine learning & AI** — end-to-end pipelines from data to training to real-time inference, and building with modern AI in mind  
@@ -26,23 +23,14 @@ I'm a **Computer Science grad student at New York University (NYU)**, building a
 Lately I've been especially drawn to large-scale backend services that move and process data reliably, ML systems that go from raw data to real-time decisions, retrieval and intelligence systems that surface the right information quickly, and performance-aware engineering where latency, throughput, and robustness matter.
 
 I'm looking for **Software Engineering** and **ML Engineer** roles, and I'm also excited about **Quant Research / Quant Analyst** opportunities where strong systems and math both count.
-
----
-
-## 🧠 How I Think About Engineering
+# 🧠 How I Think About Engineering
 
 I tend to approach systems from a **measurement-first perspective**. Before writing code, I usually think about:
 
-• latency distributions and throughput limits  
-• model calibration and prediction behavior  
-• system observability and failure modes  
-• how data distributions shift over time  
+• latency distributions and throughput limits  • model calibration and prediction behavior  • system observability and failure modes  • how data distributions shift over time  
 
-This mindset comes from working across **production systems, data pipelines, and machine learning workflows** — where correctness and robustness matter just as much as raw performance. I've built document understanding over millions of enterprise docs, risk and prediction models where calibration and interpretability matter, distributed backend services for high-volume data, and low-latency matching logic.
-
----
-
-## ⚙️ Tools I Reach For
+This mindset comes from working across **production systems, data pipelines, and machine learning workflows** — where correctness and robustness matter just as much as raw performance.
+# ⚙️ Tools I Reach For
 
 ### Languages
 
