@@ -2,16 +2,30 @@
   <img src="assets/git-gif-banner.gif" width="100%" style="max-height:30px; object-fit:cover;">
 </p>
 
-<h2 align="center">I'm Faizaan👋 Welcome to my digital backyard!</h2>
+<table align="center" style="border-collapse:collapse;border:none;">
+<tr style="border:none;">
+<td style="border:none;">
+<b><font size="6">I'm Faizaan👋 Welcome to my digital backyard!</font></b>
+</td>
+
+<td style="border:none;padding-left:10px;">
+<a href="https://www.linkedin.com/in/khan-faizaan">
+<img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40">
+</a>
+</td>
+
+<td style="border:none;padding-left:6px;">
+<a href="mailto:faizaan31.khan@gmail.com">
+<img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="40">
+</a>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4200&pause=4000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI%2FML+Systems+%7C+Quant+Curious" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4200&pause=4000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI%2FML+Systems+%7C+Quant+Curious">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khan-faizaan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:faizaan31.khan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 # 🔭 Currently Exploring
 I'm a **Computer Science** grad student at **New York University (NYU)**, building at the intersection of:
