@@ -20,9 +20,9 @@ I'm a **Computer Science** grad student at **New York University (NYU)**, buildi
 • **Applied machine learning & AI** — end-to-end pipelines from data to training to real-time inference, and building with modern AI in mind  
 • **Quantitative rigor** — probability, statistics, and measurable performance; I like problems where reasoning about uncertainty and edge cases matters  
 
-Lately I've been especially drawn to large-scale backend services that move and process data reliably, ML systems that go from raw data to real-time decisions, retrieval and intelligence systems that surface the right information quickly, and performance-aware engineering where latency, throughput, and robustness matter.
+Recently I've been particularly interested in large-scale backend services, ML systems that turn raw data into real-time decisions, retrieval and intelligence systems, and performance-aware engineering where latency and robustness matter.
 
-I'm looking for **Software Engineering** and **ML Engineer** roles, and I'm also excited about **Quant Research / Quant Analyst** opportunities where strong systems and math both count.
+I'm especially drawn to opportunities in **Software Engineering**, **AI/ML Engineering**, and really excited about **sQuant Analyst** roles.
 
 # 🧠 How I Think Around
 I tend to approach systems from a **measurement-first perspective**. Before writing code, I usually think about:
