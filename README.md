@@ -23,13 +23,13 @@ I'm a **Computer Science** grad student at **New York University (NYU)**, buildi
 Lately I've been especially drawn to large-scale backend services that move and process data reliably, ML systems that go from raw data to real-time decisions, retrieval and intelligence systems that surface the right information quickly, and performance-aware engineering where latency, throughput, and robustness matter.
 
 I'm looking for **Software Engineering** and **ML Engineer** roles, and I'm also excited about **Quant Research / Quant Analyst** opportunities where strong systems and math both count.
-# 🧠 How I Think About Engineering
 
+# 🧠 How I Think Around
 I tend to approach systems from a **measurement-first perspective**. Before writing code, I usually think about:
 
-• latency distributions and throughput limits  • model calibration and prediction behavior  • system observability and failure modes  • how data distributions shift over time  
+• Latency distributions and throughput limits  • Model calibration and prediction behavior  • System observability and failure modes  • How data distributions shift over time  
 
-This mindset comes from working across **production systems, data pipelines, and machine learning workflows** — where correctness and robustness matter just as much as raw performance.
+This mindset comes from working across **production systems, data pipelines, and machine learning workflows**.
 # ⚙️ Tools I Reach For
 
 ### Languages
