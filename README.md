@@ -101,17 +101,13 @@ Across my repositories you'll find work around:
 • **low-latency APIs and performance-sensitive infrastructure**
 
 I enjoy problems where **systems design, machine learning, and quantitative thinking intersect**.
-
----
-
+<!--
 ## 📊 GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=faizaan31&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaan31&layout=compact&theme=tokyonight"/>
 </p>
-
-<!--
 ## 🐍 Contribution Graph
 
 <p align="center">
