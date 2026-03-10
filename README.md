@@ -16,9 +16,8 @@ Software Engineer • ML Systems • Distributed Infrastructure • Quant-curiou
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=4000&cursor=▌&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+AI%2FML+Systems+%7C+Quant+Curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4200&pause=4000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI%2FML+Systems+%7C+Quant+Curious" alt="Typing SVG" />
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Machine+Learning+Systems;Distributed+Systems;Quantitative+Problem+Solving&center=true&width=500&height=40">
 </p>
