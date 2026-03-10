@@ -2,7 +2,7 @@
   <img src="assets/git-gif-banner.gif" width="100%" style="max-height:30px; object-fit:cover;">
 </p>
 
-<h1 align="center">Welcome to Faizaan's Digital Backyard!</h1>
+<h1 align="center">Welcome to my Digital Backyard!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4200&pause=4000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI%2FML+Systems+%7C+Quant+Curious" alt="Typing SVG" />
