@@ -113,7 +113,7 @@ When I'm not building systems, you'll usually find me doing something active or 
 
 ⚽ **Soccer** has been a big part of my life — I played at the state and district level and once captained my team to a district championship.
 
-🏸 I also enjoy **badminton** and **swimming**, especially when it's a chance to compete and unwind.
+🏸 I also enjoy **badminton** and **swimming**, especially when it's a chance to unwind.
 
 💬 I like problems where **strategy, teamwork, and careful thinking matter** — whether that's on the field or when working through challenging ideas.
 
