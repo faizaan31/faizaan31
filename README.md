@@ -44,7 +44,7 @@ This mindset comes from working across **production systems, data pipelines, and
     <th>Languages</th>
     <th>Backend & Distributed Systems</th>
     <th>ML & Data</th>
-    <th>Data, DevOps & IDEs</th>
+    <th>DevOps & IDEs</th>
   </tr>
   <tr>
     <td align="center">
@@ -93,7 +93,6 @@ This mindset comes from working across **production systems, data pipelines, and
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white"/>
       <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white"/>
