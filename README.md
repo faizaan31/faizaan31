@@ -22,7 +22,7 @@
 
 
 ## 🔭 Currently Exploring
-I'm a **Computer Science** grad student at **New York University (NYU)**, building at the intersection of:
+I'm a **Computer Science** grad from **New York University (NYU)**, building at the intersection of:
 
 • **Production software engineering** — backend services, distributed systems, and APIs that are reliable, observable, & built for scale.
 
