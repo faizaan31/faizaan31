@@ -9,7 +9,7 @@
 </p>
 <p
 <p align="center">
-  <a href="">
+  <a href="https://khanfaizaan.com">
     <img src="assets/portfolio icon.png" width="72" />
   </a>
 <a href="https://www.linkedin.com/in/khan-faizaan">
